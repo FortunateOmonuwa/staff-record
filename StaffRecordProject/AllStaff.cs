@@ -19,22 +19,22 @@ namespace StaffRecordProject
 
         public void Admin()
         {
-            throw new NotImplementedException();
+
         }
 
         public void ExamOfficer()
         {
-            throw new NotImplementedException();
+
         }
 
         public void Principal()
         {
-            throw new NotImplementedException();
+
         }
 
         public void Teacher()
         {
-            throw new NotImplementedException();
+
         }
 
 

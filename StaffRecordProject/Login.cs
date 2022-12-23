@@ -22,6 +22,8 @@ namespace StaffRecordProject
 
         public void Academic()
         {
+
+            
             Console.WriteLine("\n\nPress '1' to login as a principal\n\nPress '2' to login as a Teacher\n\nPress '3' to login as an Exam Officer\n\n");
             var enter = int.Parse(Console.ReadLine());
             Console.Clear();
